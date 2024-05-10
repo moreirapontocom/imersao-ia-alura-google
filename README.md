@@ -27,5 +27,3 @@ Os usuários podem adicionar suas frases para que outros usuários vejam.
 **Screenshots**
 
 ![mensagem-inicial](https://github.com/moreirapontocom/imersao-ia-alura-google/assets/2164366/194f5016-37e9-4050-a8e7-81afbcfd87ad)
-
-![banco-de-dados](https://github.com/moreirapontocom/imersao-ia-alura-google/assets/2164366/f498e626-09c9-47c8-9b38-d443c396ea0d)
